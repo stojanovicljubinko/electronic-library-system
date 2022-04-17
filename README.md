@@ -18,5 +18,5 @@ Also, the system offers user profiles for admins / writers / users and offers th
 ### Screenshot of a given program
  ![Screenshot of a given program](https://github.com/stojanovicljubinko/electronic-library-system/blob/main/photo1.png)
  ![Screenshot of a given program](https://github.com/stojanovicljubinko/electronic-library-system/blob/main/photo2.png)
- ![Screenshot of a given program](https://github.com/stojanovicljubinko/electronic-library-system/blob/main/photo3.png)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/electronic-library-system/blob/main/photo.png)
  ![Screenshot of a given program](https://github.com/stojanovicljubinko/electronic-library-system/blob/main/photo4.png)
