@@ -15,6 +15,8 @@ Also, the system offers user profiles for admins / writers / users and offers th
 * Checking the interestingness of the text and calculating the contents of the book
 * Fun content, ie mini-games realized in the library
 
+For presentation only, access is granted with approval.
+
 ### Screenshot of a given program
  ![Screenshot of a given program](https://github.com/stojanovicljubinko/electronic-library-system/blob/main/photo1.png)
  ![Screenshot of a given program](https://github.com/stojanovicljubinko/electronic-library-system/blob/main/photo2.png)
