@@ -64,10 +64,11 @@ _testmain.go
 .tmp
 #.sass-cache
 #builds/**/images/*
-#*.ogg
-#*.mp3
-#*.mp4
-#*.png
-#*.jpeg
-#*.png
+*.ogg
+*.mp3
+*.mp4
+*.png
+*.jpeg
+*.png
 *.psd
+*.jpg
