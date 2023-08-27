@@ -69,5 +69,5 @@ _testmain.go
 #*.mp4
 #*.png
 #*.jpeg
-#*.html
+#*.png
 *.psd
