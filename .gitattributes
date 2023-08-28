@@ -1,5 +1,1 @@
-/images
-/src/ikonice
-home.html
-photo1.png
-photo2.png
+*.html linguist-detectable=false
