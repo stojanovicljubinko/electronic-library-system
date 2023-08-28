@@ -10,7 +10,14 @@
 *.css
 !spec/*.css
 
+### Format1  ###
+node_modules/
+images/
+src/ikonice/
 
+### Format2  ###
+**/frontend/node_modules/**
+**/frontend/node/**
 
 # Created by https://www.gitignore.io/api/node,bower,osx,linux,windows,dropbox,sass,less,grunt,sublimetext,code
 
