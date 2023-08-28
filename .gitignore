@@ -13,6 +13,7 @@
 *.jif
 *.jfif
 *.jfi
+*.html
 
 # JPEG 2000
 *.jp2
